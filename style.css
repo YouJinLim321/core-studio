@@ -8,7 +8,15 @@ a {
 	color: #191970;
 }
 
+.center {
+	text-align: center;
+	border: 3px ;
+}
+
 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	height:auto;
 	max-width: 100%;
 }
